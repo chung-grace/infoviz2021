@@ -1,4 +1,4 @@
-Hello All! Here is a demonstration of what a basic webpage would look like after embedding the visualization using the tools we learned so far: Vega-lite, Tableau, AD, and D3 
+Hello All! Here is a demonstration of what a basic webpage would look like after embedding the visualization using the tools we learned so far: Vega-lite, Tableau, AD, and D3.  
 
 
 <html>
@@ -22,6 +22,11 @@ If you'd like to put simple images, you can upload the image file to your reposi
 Same process as Vega-Lite using embedding from Observable notebook. 
   <iframe width="100%" height="184" frameborder="0"
   src="https://observablehq.com/embed/@chunggrace/lab-12-d3-practice-3-interactivity?cells=singleVote"></iframe>
+
+<h2>Helpful Resources</h2>
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+[Observable's Intro to Embedding](https://observablehq.com/@observablehq/introduction-to-embedding)
+[Last year's projects](https://courses.ischool.berkeley.edu/i247/s20/)
 
 
 </html>
