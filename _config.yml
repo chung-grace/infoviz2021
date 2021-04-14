@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: InfoViz Final Project
 description: This is a final project site made by Grace
+github:
+  is_project_page: false
