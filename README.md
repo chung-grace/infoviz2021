@@ -25,7 +25,9 @@ Same process as Vega-Lite using embedding from Observable notebook.
 
 <h2>Helpful Resources</h2>
   <a href="https://guides.github.com/features/mastering-markdown/">Mastering Markdown</a>
+  
   <a href="https://observablehq.com/@observablehq/introduction-to-embedding">Observable's Intro to Embedding</a>
+  
   <a href="https://courses.ischool.berkeley.edu/i247/s20/">Last year's projects</a>
 
 </html>
