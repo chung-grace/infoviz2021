@@ -24,9 +24,8 @@ Same process as Vega-Lite using embedding from Observable notebook.
   src="https://observablehq.com/embed/@chunggrace/lab-12-d3-practice-3-interactivity?cells=singleVote"></iframe>
 
 <h2>Helpful Resources</h2>
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-[Observable's Intro to Embedding](https://observablehq.com/@observablehq/introduction-to-embedding)
-[Last year's projects](https://courses.ischool.berkeley.edu/i247/s20/)
-
+  <a href="https://guides.github.com/features/mastering-markdown/">Mastering Markdown</a>
+  <a href="https://observablehq.com/@observablehq/introduction-to-embedding">Observable's Intro to Embedding</a>
+  <a href="https://courses.ischool.berkeley.edu/i247/s20/">Last year's projects</a>
 
 </html>
